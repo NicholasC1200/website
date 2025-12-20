@@ -1,8 +1,8 @@
 # Setup
-title:               Michael B. Cerny
-tagline:             'Harvard University'
-description:         'Michael B. Cerny&#39s website.'
-url:                 https://michaelbcerny.net
+title:               Nicholas Cerny
+tagline:             'Violinist'
+description:         'Nicholas Cerny&#39s website.'
+url:                 https://nicholascerny.co.uk
 baseurl:             ''
 paginate:            5
 paginate_path: "/page:num/"
@@ -11,9 +11,9 @@ future: true
 
 # About/contact
 author:
-  name:              Michael B. Cerny
-  url:               michaelbcerny.github.io
-  email:             michael_cerny@g.harvard.edu
+  name:              Nicholas Cerny
+  url:               https://nicholascerny.co.uk
+  email:             nicholas.cerny1@gmail.com
 
 # Gems
 plugins:

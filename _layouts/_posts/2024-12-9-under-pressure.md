@@ -1,7 +1,7 @@
----
+<img width="468" height="189" alt="image" src="https://github.com/user-attachments/assets/c2409074-e699-40ac-acf9-93c2e7a1b068" />---
 layout: default
-title: "Under Pressure"
-date: 2024-12-09
+title: "Nicholas Cerny, Violin"
+date: 2025-12-21
 ---
 
 <!DOCTYPE html>
@@ -49,10 +49,9 @@ date: 2024-12-09
         <div class="title">Michael Cerny & Rory Truex (2024)</div>
         <div class="subtitle">“Under Pressure: Attitudes Towards China Among American Foreign Policy Professionals”</div>
         <p class="body-text">
-            How do career and reputational concerns affect China policy discourse within the Washington foreign policy community? 
-            We conducted over 50 semi-structured interviews and a novel survey experiment of nearly five-hundred American foreign 
-            policy and national security professionals about their views towards the People’s Republic of China. Contrary to concerns 
-            of a rigid consensus, we identify a noticeable diversity of policy perspectives among these professionals.
+
+          
+            British-American violinist Nicholas Cerny is a second-year postgraduate violin student at the Royal College of Music, studying with Daniel Rowland. He recently served as Leader of the Schleswig-Holstein Musik  Festival Orchestra under the direction of Maestro Christoph Eschenbach, leading performances across Germany and Denmark with an orchestra featuring members from over 30 countries. At the RCM, he has served as Associate Leader and Principal Second Violin of the RCM Symphony Orchestra and is a founding member of the Cordelia Quartet, which performs regularly across London. Prior to attending the RCM, Nicholas graduated magna cum laude from Yale University where he simultaneously studied chemistry and music, earning distinction in both subjects as well as the YSEA Award for Outstanding Undergraduate Achievement, and Manzella and Fleischer Prizes. 
         </p>
         <p class="body-text">
             However, many participants perceived a degree of what they referred to as “hawkflation” or “groupthink.” Roughly one-fourth 

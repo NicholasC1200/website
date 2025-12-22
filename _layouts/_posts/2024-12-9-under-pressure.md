@@ -9,7 +9,7 @@ date: 2025-12-21
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Under Pressure: Attitudes Towards China</title>
+    <title>Nicholas Cerny Concert Biography (December 2025)</title>
     <style>
         body {
             font-family: Arial, sans-serif;

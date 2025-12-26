@@ -58,9 +58,6 @@ date: 2025-12-21
             <em>magna cum laude</em> from Yale University, where he simultaneously studied chemistry and music, earning distinction in both subjects as well as the YSEA Award
             for Outstanding Undergraduate Achievement and the Michael Manzella and Fleischer Prizes.
         </p>
-
-        <a href="#" class="link">Click to read the executive summary.</a>
-        <a href="#" class="link">Click to read the working paper.</a>
     </div>
 </body>
 </html>
